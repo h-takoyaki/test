@@ -45,6 +45,23 @@
 
 
 
+## 分支 合并
+
+~~~shell
+# 创建一个叫somehow的分支
+git branch -b somehow
+
+# 查看、切换分支
+git branch
+git checkout somehow
+
+# 将分支somehow合并到当前分支
+git merge somehow
+
+# 删除分支
+git branch -d somehow
+~~~
+
 
 
 
