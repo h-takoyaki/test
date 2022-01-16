@@ -2,7 +2,9 @@
 
 
 
+- 在源代码管理中配置推送到自己的github
 
+![源代码管理](https://takoyaki-1258020527.cos.ap-nanjing.myqcloud.com/takoyaki/environment/vscode%2Bgithub/vscode_git.png)
 
 
 
